@@ -7,7 +7,8 @@
 
 #Achievements
 </br>
-
+<img src="Postman - Postman API Fundamentals Student Expert - 2024-08-25" alt="Postman">
+<p>Postman API Fundamentals Student Expert</p>
 
 <!--
 **AshutoshKumar0206/AshutoshKumar0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
