@@ -3,7 +3,7 @@
 <img src="./programmers.jpg" alt="Programmers">
 <br/>
 <p>Hi, I’m Ashutosh Kumar -I am a B.Tech Computer Science student at Birla Institute of Technology, Mesra. -How to reach me?<p/>
-<p>Here are my handles -Mail-ashutoshkumar200302@gmail.com -Instagram-ashutosh_kumar_003</p>
+<p>Here are my handles -Mail-<a href="mailto:ashutoshkumar200302@gmail.com">ashutoshkumar200302@gmail.com</a> -Instagram-ashutosh_kumar_003</p>
 
 <!--
 **AshutoshKumar0206/AshutoshKumar0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
