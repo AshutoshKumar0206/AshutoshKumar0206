@@ -7,7 +7,7 @@
 
 #Achievements
 </br>
-<img src="Postman-Postman_API_Fundamentals_Student_Expert_2024-08-25" alt="Postman">
+<img src="PostmanBadge" alt="Postman">
 <p>Postman API Fundamentals Student Expert</p>
 
 <!--
