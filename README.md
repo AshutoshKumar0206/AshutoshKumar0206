@@ -4,7 +4,7 @@
 <br/>
 <p>Hi, I’m Ashutosh Kumar -I am a B.Tech Computer Science student.<p/> 
  <p>📫-How to reach me?</p>
-<p>Here are my handles -<p style="text-decoration: underline;">Mail</p>-<a href="mailto:ashutoshkumar200302@gmail.com">ashutoshkumar200302@gmail.com</a> -<span style="text-decoration: underline;">Instagram</span>-ashutosh_kumar_003</p>
+<p>Here are my handles -<span style="text-decoration: underline;">Mail</span>-<a href="mailto:ashutoshkumar200302@gmail.com">ashutoshkumar200302@gmail.com</a> -<span style="text-decoration: underline;">Instagram</span>-ashutosh_kumar_003</p>
 
 ## Achievements
 </br>
