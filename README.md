@@ -4,9 +4,10 @@
 <br/>
 <p>Hi, I’m Ashutosh Kumar<p/> 
  <p>📫-How to reach me?</p>
-<p><a href="mailto:ashutoshkumar200302@gmail.com">ashutoshkumar200302@gmail.com</a>
+<p>Mail - <a href="mailto:ashutoshkumar200302@gmail.com">ashutoshkumar200302@gmail.com</a>
 </br>
- Dm me on Linkedin - <a href="https://www.linkedin.com/in/ashutosh0203/">ashutosh0203</a>
+ Dm me on Linkedin - <a href="https://www.linkedin.com/in/ashutosh0203/">linkedin/in/ashutosh0203</a>
+ 
 </p>
 
 ## Achievements
