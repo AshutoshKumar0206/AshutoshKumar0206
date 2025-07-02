@@ -5,8 +5,7 @@
 <p>🌱 Hi, I’m Ashutosh Kumar<p/> 
  <p>💬 I am interested in Web Developement, Cloud, AI/ML</p> 
  <p>📫-How to reach me?</p>
-<p>🔭 Mail - <a href="mailto:ashutoshkumar200302@gmail.com">ashutoshkumar200302@gmail.com</a></p>
-</br>
+<p>🔭 Email - <a href="mailto:ashutoshkumar200302@gmail.com">ashutoshkumar200302@gmail.com</a></p>
  <p>✨ Dm me on Linkedin - <a href="https://www.linkedin.com/in/ashutosh0203/">linkedin/in/ashutosh0203</a></p>
 
 ## Achievements
