@@ -2,13 +2,12 @@
 <br/>
 <img src="./programmers.jpg" alt="Programmers">
 <br/>
-<p>Hi, I’m Ashutosh Kumar<p/> 
+<p>🌱 Hi, I’m Ashutosh Kumar<p/> 
+ <p>💬 I am interested in Web Developement, Cloud, AI/ML</p> 
  <p>📫-How to reach me?</p>
-<p>Mail - <a href="mailto:ashutoshkumar200302@gmail.com">ashutoshkumar200302@gmail.com</a>
+<p>🔭 Mail - <a href="mailto:ashutoshkumar200302@gmail.com">ashutoshkumar200302@gmail.com</a></p>
 </br>
- Dm me on Linkedin - <a href="https://www.linkedin.com/in/ashutosh0203/">linkedin/in/ashutosh0203</a>
- 
-</p>
+ <p>✨ Dm me on Linkedin - <a href="https://www.linkedin.com/in/ashutosh0203/">linkedin/in/ashutosh0203</a></p>
 
 ## Achievements
 </br>
