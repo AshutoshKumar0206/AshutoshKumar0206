@@ -2,8 +2,9 @@
 <br/>
 <img src="./programmers.jpg" alt="Programmers">
 <br/>
-# 💫 About Me:<br/>
-🌱 Hi, I’m Ashutosh Kumar<br>💬 I am interested in Web Developement, Cloud, AI/ML<br>📫-How to reach me? - 🔭 Email - ashutoshkumar200302@gmail.com<br>✨ Dm me on Linkedin - linkedin/in/ashutosh0203<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Looking for that :)
+# 💫 About Me:
+<br/>
+🌱 Hi, I’m Ashutosh Kumar(@AshutoshKumar0206)<br>💬 I am interested in Web Developement, Cloud, AI/ML<br>📫-How to reach me? - 🔭 Email - ashutoshkumar200302@gmail.com<br>✨ Dm me on Linkedin - linkedin/in/ashutosh0203<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Looking for that :)
 
 
 ## 🌐 Socials:
