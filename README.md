@@ -27,7 +27,7 @@
 
 ## Achievements
 </br>
-<img src="./PostmanBadge.png" alt="Postman" style="width: 500px; height: 400px;">
+<img src="./PostmanBadge.png" alt="Postman" style="width: 100px; height: 300px;">
 <p>Postman API Fundamentals Student Expert</p>
 
 <!--
