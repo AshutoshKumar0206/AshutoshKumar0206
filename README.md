@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=AshutoshKumar0206&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AshutoshKumar0206&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshKumar0206&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<br>
 <table>
   <tr>
     <td>
@@ -29,8 +29,13 @@
     </td>
   </tr>
 </table>
+<br>
 
-
+### GitHub Contribution Chart
+<a href="https://github.com/AshutoshKumar0206">
+    <img src="https://ghchart.rshah.org/AshutoshKumar0206" alt="AshutoshKumar's GitHub Contribution Chart">
+</a>
+<br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AshutoshKumar0206&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
