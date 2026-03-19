@@ -2,7 +2,7 @@
 <br/><p>
 
 # 💫 About Me:
-🌱 Hi, I’m Ashutosh Kumar(@AshutoshKumar0206)<br>💬 I am interested in Web Developement, Cloud, AI/ML<br>📫-How to reach me? - 🔭 Email - ashutoshkumar200302@gmail.com<br>✨ Dm me on Linkedin - linkedin.com/in/ashutosh0203<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Looking for that :)
+🌱 Hi, I’m Ashutosh Kumar(@AshutoshKumar0206)<br>💬 I am interested in AI/ML, Web Developement, Cloud<br>📫-How to reach me? - 🔭 Email - ashutoshkumar200302@gmail.com<br>✨ Dm me on Linkedin - linkedin.com/in/ashutosh0203<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Looking for that :)
 
 
 ## 🌐 Socials:
